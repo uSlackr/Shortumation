@@ -42,7 +42,7 @@ See roadmap in [Version 1 Github Project](https://github.com/users/asosnovsky/pr
 
 ### Addon
 
-Add the repository URL under **Supervisor → Add-on store → ⋮ → Manage add-on repositories**:
+Add the repository URL under **Settings → Add-ons → Add-On Store → ⋮ →Repositories**:
 
     https://github.com/asosnovsky/Shortumation
 
